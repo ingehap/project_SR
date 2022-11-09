@@ -1,6 +1,14 @@
-# 1. Literature 
+# References
 
-## 1.1 Machine Learning in petrophysics
+## 1. Code
+
+### 1.1 scipy
+
+[SciPy Lecture Notes](https://github.com/scipy-lectures/scipy-lecture-notes)
+
+## 2. Literature 
+
+### 2.1 Machine Learning in petrophysics
 
 McDonald, Andy
 "Combining Formation Data With Well Log Measurements in Pandas"
