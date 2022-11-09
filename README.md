@@ -1,6 +1,6 @@
-# Literature 
+# 1. Literature 
 
-## Machine Learning in petrophysics
+## 1.1 Machine Learning in petrophysics
 
 McDonald, Andy
 "Combining Formation Data With Well Log Measurements in Pandas"
