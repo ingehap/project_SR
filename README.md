@@ -4,7 +4,7 @@
 
 ### 1.1 scipy
 
-[SciPy Lecture Notes](https://github.com/scipy-lectures/scipy-lecture-notes)
+[GitHub - SciPy Lecture Notes](https://github.com/scipy-lectures/scipy-lecture-notes)
 
 ## 2. Literature 
 
